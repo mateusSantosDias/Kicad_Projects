@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT230XS-R
+D UART Interface RS232, RS422, RS485, SIE, UART 3MBd, 5 V
+K
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf
+$ENDCMP
+#
+#End Doc Library

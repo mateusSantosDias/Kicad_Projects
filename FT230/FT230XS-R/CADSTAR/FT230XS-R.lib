@@ -1,0 +1,16 @@
+.FT230XS-R :1 ;UART Interface RS232, RS422, RS485, SIE, UART 3MBd, 5 V
+SOP64P599X175-16N
+*STM IC
+*NGS
+*PLB 1="TXD" 2="RTS#" 3="VCCIO" 4="RXD" 5="GND_1" 6="CTS#" 7="CBUS2" 8="USBDP" 9="USBDM" 10="3V3OUT" 11="RESET#" 12="VCC" 13="GND_2" 14="CBUS1" 15="CBUS0" 16="CBUS3"
+*MXP 16
+*DFN FT230XS-R
+~!Mouser Part Number (895-FT230XS-R)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/FTDI/FT230XS-R?qs=Gp1Yz1mis3XyCLeYOseSng%3D%3D)
+~!Manufacturer_Name (FTDI Chip)
+~!Manufacturer_Part_Number (FT230XS-R)
+~!Link Datasheet (http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf)
+~!Height (1.753mm)
+~!3D_Model (FT230XS-R)
+FT230XS-R
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

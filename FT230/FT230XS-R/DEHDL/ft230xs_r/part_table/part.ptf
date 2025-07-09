@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FT230XS_R'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "RJA", "VCC_MAX", "VCC_MIN", "IOUT_MAX", "IOUT_MIN", "ICC", "IGND", "RCA", "RJC", "ICCQ", "TECHNOLOGY", "VCCIO_MAX", "VCCIO_MIN";
+{========================================================================================}
+ "FTDI Chip", "FT230XS-R" (!) = "", "SOP64P599X175-16N", "Small Outline Packages", "895-FT230XS-R", "https://www.mouser.co.uk/ProductDetail/FTDI/FT230XS-R?qs=Gp1Yz1mis3XyCLeYOseSng%3D%3D", "UART Interface RS232, RS422, RS485, SIE, UART 3MBd, 5 V", "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf", "1.753 mm", "85", "", "", "", "USB TO UART SMD", "SSOP-16", "", "5.5", "-0.3", "22m", "", "8.3m", "", "", "", "", "CMOS_TTL", "4", "-0.3"
+END_PART
+
+END.
