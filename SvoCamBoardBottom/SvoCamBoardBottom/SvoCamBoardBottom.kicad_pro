@@ -51,13 +51,7 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -186,10 +180,7 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [
-        0.0,
-        0.5
-      ],
+      "track_widths": [],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -216,12 +207,7 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        }
-      ],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -465,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "charger_board.kicad_pro",
+    "filename": "SvoCamBoardBottom.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -581,7 +567,7 @@
       "include_excluded_from_bom": true,
       "name": "Default Editing",
       "sort_asc": true,
-      "sort_field": "Referência"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -625,7 +611,7 @@
   },
   "sheets": [
     [
-      "33992ec6-79d9-4eef-a591-9039a89cbfa4",
+      "8d986b67-8ad1-4e1c-842c-63f6fb745590",
       "Root"
     ]
   ],
